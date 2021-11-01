@@ -7,4 +7,4 @@ Aquí se incluyen los mapas que estoy preparando para el evento. No son mapas ta
 
 # Día 01 - Mapas con puntos
 
-
+Dia 1 del #30DayMapChallenge 2021.#Puntos con consumo de agua en Sinaloa.

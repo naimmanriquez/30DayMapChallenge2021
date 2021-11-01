@@ -7,4 +7,8 @@ Aquí se incluyen los mapas que estoy preparando para el evento. No son mapas ta
 
 # Día 01 - Mapas con puntos
 
-Dia 1 del #30DayMapChallenge 2021.#Puntos con consumo de agua en Sinaloa.
+Dia 1 del #30DayMapChallenge 2021. #Puntos con consumo de agua en Sinaloa.
+Los datos provienen de la Encuesta Nacional de Ingresos y Gastos de los Hogares
+
+![alt text](https://raw.githubusercontent.com/naimmanriquez/30DayMapChallenge2021/main/01-Puntos/consumo%20de%20agua.jpeg?raw=true)
+

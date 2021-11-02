@@ -14,3 +14,9 @@ Los datos provienen de la Encuesta Nacional de Ingresos y Gastos de los Hogares
 
 # Día 02 - Mapa con lineas
 
+Día 2 del #30DayMapChallenge 2021. #Rutas Provinciales de la República de Argentina.
+Los datos son del Ministerio de Transportes, hice este mapa porque me interesaba ver la ruta 40 que atraviesa todo el país. 
+
+![alt text](https://raw.githubusercontent.com/naimmanriquez/30DayMapChallenge2021/main/02-Lines/RutasArgentina.jpeg?raw=true)
+
+

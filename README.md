@@ -33,3 +33,9 @@ Parece que en las entidades del centro del país se siente más inseguridad. Los
 
 ![alt text](https://raw.githubusercontent.com/naimmanriquez/30DayMapChallenge2021/main/04-Hexagonos/inseguridad.jpeg?raw=true)
 
+# Día 05 - Mapa con OpenStreetMap
+
+Día 5 del #30DayMapChallenge 2021. #Mapa con OpenStreetMap, mancha urbana de la Ciudad de Mazatlán, Sinaloa.
+
+![alt text](https://raw.githubusercontent.com/naimmanriquez/30DayMapChallenge2021/main/05-OpenStreetMap/Rplot105.jpeg?raw=true)
+

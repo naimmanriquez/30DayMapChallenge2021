@@ -26,4 +26,10 @@ Los datos provienen del CONEVAL 2020
 
 ![alt text](https://raw.githubusercontent.com/naimmanriquez/30DayMapChallenge2021/main/03-Poligonos/pobrezaextrema.jpeg?raw=true)
 
+# Día 04 - Mapa con hexágonos
+
+Día 4 del #30DayMapChallenge 2021. #Mapa con hexágonos, percepción de inseguridad en el transporte público. 
+Parece que en las entidades del centro del país se siente más inseguridad. Los datos provienen de la Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública. 
+
+![alt text](https://raw.githubusercontent.com/naimmanriquez/30DayMapChallenge2021/main/04-Hexagonos/inseguridad.jpeg?raw=true)
 

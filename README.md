@@ -7,7 +7,7 @@ Aquí se incluyen los mapas que estoy preparando para el evento. No son mapas ta
 
 # Día 01 - Mapa con puntos
 
-Dia 1 del #30DayMapChallenge 2021. #Puntos con consumo de agua en Sinaloa.
+Dia 1 del #30DayMapChallenge 2021. #Puntos de puntos, consumo de agua en Sinaloa.
 Los datos provienen de la Encuesta Nacional de Ingresos y Gastos de los Hogares
 
 ![alt text](https://raw.githubusercontent.com/naimmanriquez/30DayMapChallenge2021/main/01-Puntos/consumo%20de%20agua.jpeg?raw=true)
@@ -18,5 +18,12 @@ Día 2 del #30DayMapChallenge 2021. #Rutas Provinciales de la República de Arge
 Los datos son del Ministerio de Transportes, hice este mapa porque me interesaba ver la ruta 40 que atraviesa todo el país. 
 
 ![alt text](https://raw.githubusercontent.com/naimmanriquez/30DayMapChallenge2021/main/02-Lines/RutasArgentina.jpeg?raw=true)
+
+# Día 03 - Mapa con poligonos
+
+Día 3 del #30DayMapChallenge 2021. #Mapa de poligonos, pobreza extrema en México.
+Los datos provienen del CONEVAL 2020
+
+![alt text](https://raw.githubusercontent.com/naimmanriquez/30DayMapChallenge2021/main/03-Poligonos/pobrezaextrema.jpeg?raw=true)
 
 

@@ -39,3 +39,9 @@ Día 5 del #30DayMapChallenge 2021. #Mapa con OpenStreetMap, mancha urbana de la
 
 ![alt text](https://raw.githubusercontent.com/naimmanriquez/30DayMapChallenge2021/main/05-OpenStreetMap/Rplot105.jpeg?raw=true)
 
+# Día 06 - Mapa de color rojo
+
+Día 6 del #30DayMapChallenge 2021. #Mapa con colores rojos, hogares con bicicleta en Mazatlán
+
+![alt text](https://raw.githubusercontent.com/naimmanriquez/30DayMapChallenge2021/main/06-Red/Rplot01rojo.jpeg?raw=true)
+

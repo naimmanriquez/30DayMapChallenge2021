@@ -41,7 +41,13 @@ Día 5 del #30DayMapChallenge 2021. #Mapa con OpenStreetMap, mancha urbana de la
 
 # Día 06 - Mapa de color rojo
 
-Día 6 del #30DayMapChallenge 2021. #Mapa con colores rojos, hogares con bicicleta en Mazatlán
+Día 6 del #30DayMapChallenge 2021. #Mapa con colores rojos, hogares con bicicleta en Mazatlán.
 
 ![alt text](https://raw.githubusercontent.com/naimmanriquez/30DayMapChallenge2021/main/06-Red/Rplot011.jpeg?raw=true)
+
+# Día 07 - Mapa de color verde
+
+Día 7 del #30DayMapChallenge 2021. #Mapa con colores verdes, hogares con servicio de internet en Mazatlán.
+
+![alt text](https://raw.githubusercontent.com/naimmanriquez/30DayMapChallenge2021/main/07-Greens/Rplot01.jpeg?raw=true)
 
